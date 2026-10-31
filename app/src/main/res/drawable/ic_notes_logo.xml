@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 图标黄色渐变圆角底板 -->
+    <path
+        android:fillColor="#E4A93C"
+        android:pathData="M24,14h60c5.52,0 10,4.48 10,10v60c0,5.52 -4.48,10 -10,10H24c-5.52,0 -10,-4.48 -10,-10V24c0,-5.52 4.48,-10 10,-10z" />
+    <!-- 顶部皮质条与白色便签纸 -->
+    <path
+        android:fillColor="#FFFDF7"
+        android:pathData="M24,28h60c2.2,0 4,1.8 4,4v52c0,2.2 -1.8,4 -4,4H24c-2.2,0 -4,-1.8 -4,-4V32c0,-2.2 1.8,-4 4,-4z" />
+    <!-- 浅黄色经典横线纹理 -->
+    <path
+        android:fillColor="#F0E3B8"
+        android:pathData="M26,42h56v2H26z M26,52h56v2H26z M26,62h56v2H26z M26,72h56v2H26z" />
+    <path
+        android:fillColor="#C28E2E"
+        android:pathData="M24,14h60c5.52,0 10,4.48 10,10v6H14v-6c0,-5.52 4.48,-10 10,-10z" />
+</vector>

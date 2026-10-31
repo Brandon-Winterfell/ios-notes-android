@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS 备忘录深色主题色 -->
+    <color name="ios_yellow">#E4A93C</color>
+    <color name="ios_yellow_dark">#D49324</color>
+    <color name="ios_yellow_light">#26231A</color>
+    <color name="ios_yellow_ripple">#40E4A93C</color>
+
+    <!-- iOS 深色背景与卡片 -->
+    <color name="ios_bg_grouped">#000000</color>
+    <color name="ios_card_bg">#1C1C1E</color>
+    <color name="ios_secondary_card">#2C2C2E</color>
+    <color name="ios_separator">#54545866</color>
+    <color name="ios_search_bg">#3D767680</color>
+
+    <!-- 字体颜色 -->
+    <color name="ios_text_primary">#FFFFFF</color>
+    <color name="ios_text_secondary">#8E8E93</color>
+    <color name="ios_text_tertiary">#48484A</color>
+
+    <!-- 功能色 -->
+    <color name="ios_red">#FF453A</color>
+    <color name="ios_blue">#0A84FF</color>
+    <color name="ios_green">#30D158</color>
+</resources>

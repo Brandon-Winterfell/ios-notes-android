@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用通用名称 -->
+    <string name="app_name">备忘录</string>
+    <string name="icloud">iCloud</string>
+    <string name="folders_title">文件夹</string>
+    <string name="all_notes">全部备忘录</string>
+    <string name="notes_default">备忘录</string>
+    <string name="work_notes">工作笔记</string>
+    <string name="personal_notes">灵感随记</string>
+    <string name="ideas_notes">读书摘抄</string>
+    <string name="trash_title">最近删除</string>
+
+    <!-- 搜索与空状态 -->
+    <string name="search_hint">搜索</string>
+    <string name="cancel">取消</string>
+    <string name="edit">编辑</string>
+    <string name="done">完成</string>
+    <string name="pinned">置顶</string>
+    <string name="notes_section">备忘录</string>
+    <string name="empty_notes_title">无备忘录</string>
+    <string name="empty_notes_desc">轻点右下角新建一条备忘录</string>
+
+    <!-- 文件夹操作 -->
+    <string name="new_folder">新建文件夹</string>
+    <string name="new_folder_title">新建文件夹</string>
+    <string name="folder_name_hint">输入文件夹名称</string>
+    <string name="save">存储</string>
+    <string name="delete">删除</string>
+    <string name="share">共享备忘录</string>
+    <string name="pin_note">置顶备忘录</string>
+    <string name="unpin_note">取消置顶</string>
+
+    <!-- iOS 格式化面板选项 -->
+    <string name="format_title">大标题</string>
+    <string name="format_heading">小标题</string>
+    <string name="format_subheading">副标题</string>
+    <string name="format_body">正文</string>
+    <string name="format_mono">等宽字体</string>
+    <string name="format_bullet">项目符号列表</string>
+    <string name="format_dashed">短划线列表</string>
+    <string name="format_numbered">编号列表</string>
+    <string name="format_checklist">核对清单</string>
+
+    <!-- 涂鸦与画板 -->
+    <string name="sketch_title">涂鸦画板</string>
+    <string name="clear_canvas">清空</string>
+    <string name="undo">撤销</string>
+
+    <!-- 数量格式化 -->
+    <string name="notes_count_format">%d 个备忘录</string>
+    <string name="folders_count_format">%d 个文件夹</string>
+    <string name="note_date_format">%s</string>
+</resources>

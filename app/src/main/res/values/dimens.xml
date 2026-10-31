@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS 统一内边距与间距 -->
+    <dimen name="ios_margin_horizontal">16dp</dimen>
+    <dimen name="ios_margin_vertical">12dp</dimen>
+    <dimen name="ios_card_corner_radius">12dp</dimen>
+    <dimen name="ios_card_elevation">1dp</dimen>
+    <dimen name="ios_divider_height">0.5dp</dimen>
+
+    <!-- 字体规格（San Francisco Typography 对应） -->
+    <dimen name="ios_font_large_title">34sp</dimen>
+    <dimen name="ios_font_title1">28sp</dimen>
+    <dimen name="ios_font_title2">22sp</dimen>
+    <dimen name="ios_font_title3">20sp</dimen>
+    <dimen name="ios_font_headline">17sp</dimen>
+    <dimen name="ios_font_body">17sp</dimen>
+    <dimen name="ios_font_callout">16sp</dimen>
+    <dimen name="ios_font_subhead">15sp</dimen>
+    <dimen name="ios_font_footnote">13sp</dimen>
+    <dimen name="ios_font_caption1">12sp</dimen>
+    <dimen name="ios_font_caption2">11sp</dimen>
+</resources>

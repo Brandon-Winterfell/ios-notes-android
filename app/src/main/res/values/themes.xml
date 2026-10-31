@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.IosNotes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- 基础色彩 -->
+        <item name="colorPrimary">@color/ios_yellow</item>
+        <item name="colorPrimaryVariant">@color/ios_yellow_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/ios_yellow</item>
+        <item name="android:windowBackground">@color/ios_bg_grouped</item>
+        <item name="android:statusBarColor">@color/ios_bg_grouped</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
+        <item name="android:navigationBarColor">@color/ios_bg_grouped</item>
+    </style>
+
+    <!-- iOS 拟态圆角卡片样式 -->
+    <style name="IosGroupedCard">
+        <item name="cardCornerRadius">@dimen/ios_card_corner_radius</item>
+        <item name="cardElevation">@dimen/ios_card_elevation</item>
+        <item name="cardBackgroundColor">@color/ios_card_bg</item>
+        <item name="android:layout_marginStart">@dimen/ios_margin_horizontal</item>
+        <item name="android:layout_marginEnd">@dimen/ios_margin_horizontal</item>
+    </style>
+</resources>
